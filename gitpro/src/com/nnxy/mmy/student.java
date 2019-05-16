@@ -1,9 +1,9 @@
 package com.nnxy.mmy;
 
 public class student {
-	private int age;
-	private int sex;
-	private  String name;
+	private int age;//年龄
+	private int sex;//性别
+	private  String name;//姓名
 	
 	
 	
